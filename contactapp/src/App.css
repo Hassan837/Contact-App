@@ -1,0 +1,16 @@
+h1{
+  color: #0B3954;
+}
+
+.card{
+    box-shadow: 0 0 50px 0 #00cecb ;
+    background-color: #FF5E5B;
+}
+button:hover{
+    box-shadow:0 0 10px 0 #00cecb;
+}
+
+img{
+  border-radius:10px 10px;
+  box-shadow: 0 0 5px 0 black;
+}
